@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/saumyaranga29/Leetcode/tree/master/0056-merge-intervals) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/saumyaranga29/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0455-assign-cookies](https://github.com/saumyaranga29/Leetcode/tree/master/0455-assign-cookies) |
 ## Math
@@ -54,5 +55,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/saumyaranga29/Leetcode/tree/master/0056-merge-intervals) |
 | [0455-assign-cookies](https://github.com/saumyaranga29/Leetcode/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
