@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/saumyaranga29/Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/saumyaranga29/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/saumyaranga29/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/saumyaranga29/Leetcode/tree/master/0234-palindrome-linked-list) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/saumyaranga29/Leetcode/tree/master/0020-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/saumyaranga29/Leetcode/tree/master/0125-valid-palindrome) |
 | [0409-longest-palindrome](https://github.com/saumyaranga29/Leetcode/tree/master/0409-longest-palindrome) |
 | [2785-sort-vowels-in-a-string](https://github.com/saumyaranga29/Leetcode/tree/master/2785-sort-vowels-in-a-string) |
 ## Array
