@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/saumyaranga29/Leetcode/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/saumyaranga29/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/saumyaranga29/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0347-top-k-frequent-elements](https://github.com/saumyaranga29/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0409-longest-palindrome](https://github.com/saumyaranga29/Leetcode/tree/master/0409-longest-palindrome) |
 ## Stack
 |  |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/saumyaranga29/Leetcode/tree/master/0162-find-peak-element) |
 | [0204-count-primes](https://github.com/saumyaranga29/Leetcode/tree/master/0204-count-primes) |
 | [0322-coin-change](https://github.com/saumyaranga29/Leetcode/tree/master/0322-coin-change) |
+| [0347-top-k-frequent-elements](https://github.com/saumyaranga29/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/saumyaranga29/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/saumyaranga29/Leetcode/tree/master/0455-assign-cookies) |
 | [0518-coin-change-ii](https://github.com/saumyaranga29/Leetcode/tree/master/0518-coin-change-ii) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/saumyaranga29/Leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/saumyaranga29/Leetcode/tree/master/0056-merge-intervals) |
+| [0347-top-k-frequent-elements](https://github.com/saumyaranga29/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/saumyaranga29/Leetcode/tree/master/0455-assign-cookies) |
 | [2785-sort-vowels-in-a-string](https://github.com/saumyaranga29/Leetcode/tree/master/2785-sort-vowels-in-a-string) |
 ## Binary Search
@@ -156,4 +159,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/saumyaranga29/Leetcode/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/saumyaranga29/Leetcode/tree/master/1633-percentage-of-users-attended-a-contest) |
 | [1661-average-time-of-process-per-machine](https://github.com/saumyaranga29/Leetcode/tree/master/1661-average-time-of-process-per-machine) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/saumyaranga29/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/saumyaranga29/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/saumyaranga29/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/saumyaranga29/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/saumyaranga29/Leetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
