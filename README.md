@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/saumyaranga29/Leetcode/tree/master/0455-assign-cookies) |
 | [0518-coin-change-ii](https://github.com/saumyaranga29/Leetcode/tree/master/0518-coin-change-ii) |
 | [0739-daily-temperatures](https://github.com/saumyaranga29/Leetcode/tree/master/0739-daily-temperatures) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/saumyaranga29/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 ## Math
 |  |
 | ------- |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/saumyaranga29/Leetcode/tree/master/0056-merge-intervals) |
 | [0347-top-k-frequent-elements](https://github.com/saumyaranga29/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/saumyaranga29/Leetcode/tree/master/0455-assign-cookies) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/saumyaranga29/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [2785-sort-vowels-in-a-string](https://github.com/saumyaranga29/Leetcode/tree/master/2785-sort-vowels-in-a-string) |
 ## Binary Search
 |  |
