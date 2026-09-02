@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/saumyaranga29/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0204-count-primes](https://github.com/saumyaranga29/Leetcode/tree/master/0204-count-primes) |
+| [2485-find-the-pivot-integer](https://github.com/saumyaranga29/Leetcode/tree/master/2485-find-the-pivot-integer) |
 ## Greedy
 |  |
 | ------- |
@@ -181,4 +182,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/saumyaranga29/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Prefix Sum
+|  |
+| ------- |
+| [2485-find-the-pivot-integer](https://github.com/saumyaranga29/Leetcode/tree/master/2485-find-the-pivot-integer) |
 <!---LeetCode Topics End-->
