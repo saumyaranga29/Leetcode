@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/saumyaranga29/Leetcode/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/saumyaranga29/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0155-min-stack](https://github.com/saumyaranga29/Leetcode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/saumyaranga29/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## String
 |  |
@@ -65,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/saumyaranga29/Leetcode/tree/master/0162-find-peak-element) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/saumyaranga29/Leetcode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
