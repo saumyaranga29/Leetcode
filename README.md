@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/saumyaranga29/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0162-find-peak-element](https://github.com/saumyaranga29/Leetcode/tree/master/0162-find-peak-element) |
 | [0455-assign-cookies](https://github.com/saumyaranga29/Leetcode/tree/master/0455-assign-cookies) |
+| [0518-coin-change-ii](https://github.com/saumyaranga29/Leetcode/tree/master/0518-coin-change-ii) |
 ## Math
 |  |
 | ------- |
@@ -70,4 +71,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/saumyaranga29/Leetcode/tree/master/0155-min-stack) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/saumyaranga29/Leetcode/tree/master/0518-coin-change-ii) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/saumyaranga29/Leetcode/tree/master/0518-coin-change-ii) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/saumyaranga29/Leetcode/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
