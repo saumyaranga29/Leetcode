@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/saumyaranga29/Leetcode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/saumyaranga29/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0739-daily-temperatures](https://github.com/saumyaranga29/Leetcode/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/saumyaranga29/Leetcode/tree/master/0901-online-stock-span) |
 ## String
 |  |
 | ------- |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/saumyaranga29/Leetcode/tree/master/0155-min-stack) |
+| [0901-online-stock-span](https://github.com/saumyaranga29/Leetcode/tree/master/0901-online-stock-span) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -94,4 +96,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/saumyaranga29/Leetcode/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/saumyaranga29/Leetcode/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/saumyaranga29/Leetcode/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
