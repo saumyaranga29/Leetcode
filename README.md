@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/saumyaranga29/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/saumyaranga29/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/saumyaranga29/Leetcode/tree/master/0162-find-peak-element) |
+| [0204-count-primes](https://github.com/saumyaranga29/Leetcode/tree/master/0204-count-primes) |
 | [0322-coin-change](https://github.com/saumyaranga29/Leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/saumyaranga29/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/saumyaranga29/Leetcode/tree/master/0455-assign-cookies) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/saumyaranga29/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0204-count-primes](https://github.com/saumyaranga29/Leetcode/tree/master/0204-count-primes) |
 ## Greedy
 |  |
 | ------- |
@@ -118,4 +120,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/saumyaranga29/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/saumyaranga29/Leetcode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/saumyaranga29/Leetcode/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/saumyaranga29/Leetcode/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/saumyaranga29/Leetcode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/saumyaranga29/Leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
