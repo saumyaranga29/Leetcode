@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0060-permutation-sequence](https://github.com/saumyaranga29/Leetcode/tree/master/0060-permutation-sequence) |
 | [0206-reverse-linked-list](https://github.com/saumyaranga29/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/saumyaranga29/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Hash Table
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/saumyaranga29/Leetcode/tree/master/0009-palindrome-number) |
+| [0060-permutation-sequence](https://github.com/saumyaranga29/Leetcode/tree/master/0060-permutation-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/saumyaranga29/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0204-count-primes](https://github.com/saumyaranga29/Leetcode/tree/master/0204-count-primes) |
 | [2485-find-the-pivot-integer](https://github.com/saumyaranga29/Leetcode/tree/master/2485-find-the-pivot-integer) |
