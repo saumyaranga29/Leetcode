@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/saumyaranga29/Leetcode/tree/master/0060-permutation-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/saumyaranga29/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0204-count-primes](https://github.com/saumyaranga29/Leetcode/tree/master/0204-count-primes) |
+| [0371-sum-of-two-integers](https://github.com/saumyaranga29/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/saumyaranga29/Leetcode/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 | [2485-find-the-pivot-integer](https://github.com/saumyaranga29/Leetcode/tree/master/2485-find-the-pivot-integer) |
 ## Greedy
@@ -204,4 +205,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/saumyaranga29/Leetcode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/saumyaranga29/Leetcode/tree/master/0191-number-of-1-bits) |
+| [0371-sum-of-two-integers](https://github.com/saumyaranga29/Leetcode/tree/master/0371-sum-of-two-integers) |
 <!---LeetCode Topics End-->
