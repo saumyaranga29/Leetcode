@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/saumyaranga29/Leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/saumyaranga29/Leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/saumyaranga29/Leetcode/tree/master/0057-insert-interval) |
+| [0118-pascals-triangle](https://github.com/saumyaranga29/Leetcode/tree/master/0118-pascals-triangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/saumyaranga29/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/saumyaranga29/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/saumyaranga29/Leetcode/tree/master/0162-find-peak-element) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/saumyaranga29/Leetcode/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/saumyaranga29/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0322-coin-change](https://github.com/saumyaranga29/Leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/saumyaranga29/Leetcode/tree/master/0416-partition-equal-subset-sum) |
